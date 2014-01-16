@@ -1,3 +1,11 @@
+Git repository
+https://github.com/beevageeva/polynomfit
+
+Clonar el repositorio:
+git clone https://github.com/beevageeva/polynomfit
+
+
+
 Ejemplos de uso:
 si los valores estan en columnas como en datafit*.dat solo hay que especificar el fichero de entrada con la opcion --input=<filename> 
 python prac.py --input=datafit2.dat 
